@@ -39,7 +39,7 @@ void loop() {
 ```
 [![Traffic Light Video](http://img.youtube.com/vi/-9dg8NyDGKo/0.jpg)](http://www.youtube.com/watch?v=-9dg8NyDGKo)
 
-YouTube Video [https://youtu.be/-9dg8NyDGKo]
+YouTube Video [http://youtu.be/-9dg8NyDGKo]
 
 And of course, just documenting it I already see things I would change.  But I must break from lunch to get back to my real work.
 **_What would you do to make this better??_**
